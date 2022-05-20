@@ -5,7 +5,7 @@ description: >-
 layout: editorial
 ---
 
-# Quy trình xử lý dữ liệu
+# Giới thiệu quy trình xử lý dữ liệu
 
 
 
@@ -35,20 +35,20 @@ Here are a couple of examples of succinct overviews from products with really gr
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
 {% endhint %}
 
-### Guides: Jump right in
+### PHẦN I: CHUẨN HÓA DỮ LIỆU
 
-Follow our handy guides to get started on the basics as quickly as possible:
+Các nội dung chính trong chuẩn hóa dữ liệu:
 
-{% content-ref url="chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md" %}
-[khao-sat-va-danh-gia-du-lieu.md](chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
+{% content-ref url="phan-i-chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md" %}
+[khao-sat-va-danh-gia-du-lieu.md](phan-i-chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
 {% endcontent-ref %}
 
-{% content-ref url="chuan-hoa-du-lieu/creating-your-first-task.md" %}
-[creating-your-first-task.md](chuan-hoa-du-lieu/creating-your-first-task.md)
+{% content-ref url="phan-i-chuan-hoa-du-lieu/creating-your-first-task.md" %}
+[creating-your-first-task.md](phan-i-chuan-hoa-du-lieu/creating-your-first-task.md)
 {% endcontent-ref %}
 
-{% content-ref url="chuan-hoa-du-lieu/advanced-permissions.md" %}
-[advanced-permissions.md](chuan-hoa-du-lieu/advanced-permissions.md)
+{% content-ref url="phan-i-chuan-hoa-du-lieu/advanced-permissions.md" %}
+[advanced-permissions.md](phan-i-chuan-hoa-du-lieu/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
