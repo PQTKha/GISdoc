@@ -4,7 +4,6 @@ description: >-
   và giai đoạn.
 cover: .gitbook/assets/About_citics_header_bg.jpg
 coverY: 0
-layout: editorial
 ---
 
 # 🇻🇳 QUY TRÌNH XỬ LÝ DỮ LIỆU ĐỊA CHÍNH VIỆT NAM
