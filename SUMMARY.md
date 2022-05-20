@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇻🇳 QUY TRÌNH XỬ LÝ DỮ LIỆU ĐỊA CHÍNH VIỆT NAM](README.md)
+* [🇻🇳 CADASTRAL DATA PROCESSING](README.md)
 
 ## PHẦN I: CHUẨN HÓA DỮ LIỆU
 
