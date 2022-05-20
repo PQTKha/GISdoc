@@ -2,10 +2,12 @@
 description: >-
   Tổng hợp tài liệu hướng dẫn quy trình xử lý dữ liệu ranh thửa theo từng cấp độ
   và giai đoạn.
+cover: .gitbook/assets/About_citics_header_bg.jpg
+coverY: 0
 layout: editorial
 ---
 
-# 🇻🇳 Giới thiệu quy trình xử lý dữ liệu
+# 🇻🇳 QUY TRÌNH XỬ LÝ DỮ LIỆU ĐỊA CHÍNH VIỆT NAM
 
 
 
