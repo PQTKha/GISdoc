@@ -9,7 +9,7 @@ layout: landing
 
 
 {% hint style="info" %}
-**Chú ý:** Quy trình này có thể thay đổi dựa vào mức độ phát triển công cụ cũng như các yêu cầu mới. Ngoài ra, quy trình sẽ được đội ngũ GIS Team cập nhật liên tục, các bạn theo dõi các cập nhật mới để áp dụng cho xử lý dữ liệu nhằm đảm bảo tính chính xác.!
+**Chú ý:** Tài liệu này chỉ được sử dụng lưu hành nội bộ! Không chia sẻ ra bên ngoài dưới mọi hình thức. Quy trình này có thể thay đổi dựa vào mức độ phát triển công cụ cũng như các yêu cầu mới. Ngoài ra, quy trình sẽ được đội ngũ GIS Team cập nhật liên tục, các bạn theo dõi các cập nhật mới để áp dụng cho xử lý dữ liệu nhằm đảm bảo tính chính xác.!
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
