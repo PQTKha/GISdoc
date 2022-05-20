@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇻🇳 Cadastral data process document](README.md)
+* [▶ Cadastral data process document](README.md)
 
 ## PHẦN I: CHUẨN HÓA DỮ LIỆU
 
