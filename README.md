@@ -1,5 +1,4 @@
 ---
-description: TÀI LIỆU QUY TRÌNH XỬ LÝ DỮ LIỆU ĐỊA CHÍNH
 cover: .gitbook/assets/About_citics_header_bg.jpg
 coverY: 0
 layout: landing
