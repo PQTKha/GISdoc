@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Quy trình xử lý dữ liệu](README.md)
+  * [Chuẩn hóa dữ liệu](quy-trinh-xu-ly-du-lieu/chuan-hoa-du-lieu.md)
 
 ## Chuẩn hóa dữ liệu
 
