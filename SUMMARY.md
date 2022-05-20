@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇻🇳 Giới thiệu quy trình xử lý dữ liệu](README.md)
+* [🇻🇳 QUY TRÌNH XỬ LÝ DỮ LIỆU ĐỊA CHÍNH](README.md)
 
 ## PHẦN I: CHUẨN HÓA DỮ LIỆU
 
