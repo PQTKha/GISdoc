@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Giới thiệu quy trình xử lý dữ liệu](README.md)
+* [🇻🇳 Giới thiệu quy trình xử lý dữ liệu](README.md)
 
 ## PHẦN I: CHUẨN HÓA DỮ LIỆU
 
-* [Khảo sát và đánh giá dữ liệu](phan-i-chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
-* [Creating your first task](phan-i-chuan-hoa-du-lieu/creating-your-first-task.md)
-* [Advanced permissions](phan-i-chuan-hoa-du-lieu/advanced-permissions.md)
+* [Khảo sát và đánh giá dữ liệu](chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
+* [Creating your first task](chuan-hoa-du-lieu/creating-your-first-task.md)
+* [Advanced permissions](chuan-hoa-du-lieu/advanced-permissions.md)
 
 ## XỬ LÝ DỮ LIỆU CƠ BẢN
 

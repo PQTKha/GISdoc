@@ -5,7 +5,7 @@ description: >-
 layout: editorial
 ---
 
-# Giới thiệu quy trình xử lý dữ liệu
+# 🇻🇳 Giới thiệu quy trình xử lý dữ liệu
 
 
 
@@ -25,11 +25,9 @@ Here are a couple of examples of succinct overviews from products with really gr
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Getting Started
+## GIỚI THIỆU
 
 **Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
 
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
@@ -39,16 +37,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Các nội dung chính trong chuẩn hóa dữ liệu:
 
-{% content-ref url="phan-i-chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md" %}
-[khao-sat-va-danh-gia-du-lieu.md](phan-i-chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
+{% content-ref url="chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md" %}
+[khao-sat-va-danh-gia-du-lieu.md](chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-i-chuan-hoa-du-lieu/creating-your-first-task.md" %}
-[creating-your-first-task.md](phan-i-chuan-hoa-du-lieu/creating-your-first-task.md)
+{% content-ref url="chuan-hoa-du-lieu/creating-your-first-task.md" %}
+[creating-your-first-task.md](chuan-hoa-du-lieu/creating-your-first-task.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-i-chuan-hoa-du-lieu/advanced-permissions.md" %}
-[advanced-permissions.md](phan-i-chuan-hoa-du-lieu/advanced-permissions.md)
+{% content-ref url="chuan-hoa-du-lieu/advanced-permissions.md" %}
+[advanced-permissions.md](chuan-hoa-du-lieu/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
