@@ -1,11 +1,10 @@
 # Table of contents
 
 * [Quy trình xử lý dữ liệu](README.md)
-  * [Chuẩn hóa dữ liệu](quy-trinh-xu-ly-du-lieu/chuan-hoa-du-lieu.md)
 
 ## Chuẩn hóa dữ liệu
 
-* [Creating your first project](chuan-hoa-du-lieu/creating-your-first-project.md)
+* [Khảo sát và đánh giá dữ liệu](chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
 * [Creating your first task](chuan-hoa-du-lieu/creating-your-first-task.md)
 * [Advanced permissions](chuan-hoa-du-lieu/advanced-permissions.md)
 

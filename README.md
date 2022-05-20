@@ -39,8 +39,8 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="chuan-hoa-du-lieu/creating-your-first-project.md" %}
-[creating-your-first-project.md](chuan-hoa-du-lieu/creating-your-first-project.md)
+{% content-ref url="chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md" %}
+[khao-sat-va-danh-gia-du-lieu.md](chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
 {% endcontent-ref %}
 
 {% content-ref url="chuan-hoa-du-lieu/creating-your-first-task.md" %}

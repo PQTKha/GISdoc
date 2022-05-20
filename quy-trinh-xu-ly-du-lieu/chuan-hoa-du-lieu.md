@@ -1,2 +1,0 @@
-# Chuẩn hóa dữ liệu
-
