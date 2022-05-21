@@ -4,16 +4,16 @@
 
 ## PHẦN I: CHUẨN HÓA DỮ LIỆU
 
-* [Khảo sát và đánh giá dữ liệu](chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
-* [Creating your first task](chuan-hoa-du-lieu/creating-your-first-task.md)
-* [Advanced permissions](chuan-hoa-du-lieu/advanced-permissions.md)
+* [1.1. Khảo sát và đánh giá dữ liệu](phan-i-chuan-hoa-du-lieu/1.1.-khao-sat-va-danh-gia-du-lieu.md)
+* [1.2. Creating your first task](phan-i-chuan-hoa-du-lieu/1.2.-creating-your-first-task.md)
+* [1.3. Advanced permissions](phan-i-chuan-hoa-du-lieu/1.3.-advanced-permissions.md)
 
 ## PHẦN II: XỬ LÝ DỮ LIỆU CƠ BẢN
 
-* [Projects](x-ly-du-lieu-co-ban/projects.md)
-* [Members](x-ly-du-lieu-co-ban/members.md)
-* [Task Lists](x-ly-du-lieu-co-ban/task-lists.md)
-* [Tasks](x-ly-du-lieu-co-ban/tasks.md)
+* [2.1. Projects](phan-ii-x-ly-du-lieu-co-ban/2.1.-projects.md)
+* [2.2. Members](phan-ii-x-ly-du-lieu-co-ban/2.2.-members.md)
+* [2.3. Task Lists](phan-ii-x-ly-du-lieu-co-ban/2.3.-task-lists.md)
+* [2.4. Tasks](phan-ii-x-ly-du-lieu-co-ban/2.4.-tasks.md)
 
 ## PHẦN III: XỬ LÝ DỮ LIỆU NÂNG CAO <a href="#xu-ly-du-lieu-nang-cao" id="xu-ly-du-lieu-nang-cao"></a>
 
