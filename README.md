@@ -35,16 +35,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Các nội dung chính trong chuẩn hóa dữ liệu:
 
-{% content-ref url="phan-i-chuan-hoa-du-lieu/phan-i-xu-ly-du-lieu-semi/1.1.-khao-sat-va-danh-gia-du-lieu.md" %}
-[1.1.-khao-sat-va-danh-gia-du-lieu.md](phan-i-chuan-hoa-du-lieu/phan-i-xu-ly-du-lieu-semi/1.1.-khao-sat-va-danh-gia-du-lieu.md)
+{% content-ref url="du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/1.1.-khao-sat-va-danh-gia-du-lieu.md" %}
+[1.1.-khao-sat-va-danh-gia-du-lieu.md](du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/1.1.-khao-sat-va-danh-gia-du-lieu.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-i-chuan-hoa-du-lieu/phan-i-xu-ly-du-lieu-semi/1.2.-creating-your-first-task.md" %}
-[1.2.-creating-your-first-task.md](phan-i-chuan-hoa-du-lieu/phan-i-xu-ly-du-lieu-semi/1.2.-creating-your-first-task.md)
+{% content-ref url="du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/1.2.-creating-your-first-task.md" %}
+[1.2.-creating-your-first-task.md](du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/1.2.-creating-your-first-task.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-i-chuan-hoa-du-lieu/phan-i-xu-ly-du-lieu-semi/1.3.-advanced-permissions.md" %}
-[1.3.-advanced-permissions.md](phan-i-chuan-hoa-du-lieu/phan-i-xu-ly-du-lieu-semi/1.3.-advanced-permissions.md)
+{% content-ref url="du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/1.3.-advanced-permissions.md" %}
+[1.3.-advanced-permissions.md](du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/1.3.-advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -55,20 +55,20 @@ Các nội dung chính trong chuẩn hóa dữ liệu:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="x-ly-du-lieu-co-ban/projects.md" %}
-[projects.md](x-ly-du-lieu-co-ban/projects.md)
+{% content-ref url="du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.1.-projects.md" %}
+[2.1.-projects.md](du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.1.-projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="x-ly-du-lieu-co-ban/members.md" %}
-[members.md](x-ly-du-lieu-co-ban/members.md)
+{% content-ref url="du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.2.-members.md" %}
+[2.2.-members.md](du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.2.-members.md)
 {% endcontent-ref %}
 
-{% content-ref url="x-ly-du-lieu-co-ban/task-lists.md" %}
-[task-lists.md](x-ly-du-lieu-co-ban/task-lists.md)
+{% content-ref url="du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.3.-task-lists.md" %}
+[2.3.-task-lists.md](du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.3.-task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="x-ly-du-lieu-co-ban/tasks.md" %}
-[tasks.md](x-ly-du-lieu-co-ban/tasks.md)
+{% content-ref url="du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.4.-tasks.md" %}
+[2.4.-tasks.md](du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/2.4.-tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
