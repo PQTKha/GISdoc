@@ -8,25 +8,25 @@
 * [Creating your first task](chuan-hoa-du-lieu/creating-your-first-task.md)
 * [Advanced permissions](chuan-hoa-du-lieu/advanced-permissions.md)
 
-## XỬ LÝ DỮ LIỆU CƠ BẢN
+## PHẦN II: XỬ LÝ DỮ LIỆU CƠ BẢN
 
-* [Projects](x-ly-du-lieu-co-ban/projects.md)
-* [Members](x-ly-du-lieu-co-ban/members.md)
-* [Task Lists](x-ly-du-lieu-co-ban/task-lists.md)
-* [Tasks](x-ly-du-lieu-co-ban/tasks.md)
+* [Projects](phan-ii-x-ly-du-lieu-co-ban/projects.md)
+* [Members](phan-ii-x-ly-du-lieu-co-ban/members.md)
+* [Task Lists](phan-ii-x-ly-du-lieu-co-ban/task-lists.md)
+* [Tasks](phan-ii-x-ly-du-lieu-co-ban/tasks.md)
 
-## XỬ LÝ DỮ LIỆU NÂNG CAO
+## PHẦN III: XỬ LÝ DỮ LIỆU NÂNG CAO <a href="#xu-ly-du-lieu-nang-cao" id="xu-ly-du-lieu-nang-cao"></a>
 
-* [For Designers](x-ly-du-lieu-nang-cao/for-designers/README.md)
-  * [Figma Integration](x-ly-du-lieu-nang-cao/for-designers/figma-integration.md)
-* [For Engineers](x-ly-du-lieu-nang-cao/for-engineers/README.md)
-  * [GitHub Integration](x-ly-du-lieu-nang-cao/for-engineers/github-integration.md)
-* [For Support](x-ly-du-lieu-nang-cao/for-support/README.md)
-  * [Intercom Integration](x-ly-du-lieu-nang-cao/for-support/intercom-integration.md)
+* [For Designers](xu-ly-du-lieu-nang-cao/for-designers/README.md)
+  * [Figma Integration](xu-ly-du-lieu-nang-cao/for-designers/figma-integration.md)
+* [For Engineers](xu-ly-du-lieu-nang-cao/for-engineers/README.md)
+  * [GitHub Integration](xu-ly-du-lieu-nang-cao/for-engineers/github-integration.md)
+* [For Support](xu-ly-du-lieu-nang-cao/for-support/README.md)
+  * [Intercom Integration](xu-ly-du-lieu-nang-cao/for-support/intercom-integration.md)
 
-## Extras
+## PHẦN IV: XỬ LÝ DỮ LIỆU QUY HOẠCH
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Keyboard Shortcuts](phan-iv-x-ly-du-lieu-quy-hoach/keyboard-shortcuts.md)
 
 ## QA/QC DỮ LIỆU
 
