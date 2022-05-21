@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/About_citics_header_bg.jpg
 coverY: 0
-layout: landing
 ---
 
 # ▶ Cadastral data process document
