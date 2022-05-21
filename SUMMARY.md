@@ -1,6 +1,6 @@
 # Table of contents
 
-* [▶ Xử lý dữ liệu Địa chính & Quy hoạch](README.md)
+* [▶ Tài liệu hướng dẫn Xử lý dữ liệu Địa chính & Quy hoạch](README.md)
 
 ## DỮ LIỆU ĐỊA CHÍNH
 
