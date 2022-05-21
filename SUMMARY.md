@@ -1,6 +1,6 @@
 # Table of contents
 
-* [▶ Cadastral data process document](README.md)
+* [▶ Xử lý dữ liệu Địa chính & Quy hoạch](README.md)
 
 ## DỮ LIỆU ĐỊA CHÍNH
 
