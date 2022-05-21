@@ -27,3 +27,10 @@
 ## Extras
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+
+## QA/QC DỮ LIỆU
+
+* [QA/QC dữ liệu semi](qa-qc-du-lieu/qa-qc-du-lieu-semi.md)
+* [QA/QC dữ liệu full](qa-qc-du-lieu/qa-qc-du-lieu-full.md)
+* [QA/QC dữ liệu quy hoạch](qa-qc-du-lieu/qa-qc-du-lieu-quy-hoach.md)
+* [QA/QC dữ liệu dự án BĐS](qa-qc-du-lieu/qa-qc-du-lieu-du-an-bds.md)
