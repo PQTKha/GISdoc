@@ -55,20 +55,20 @@ Các nội dung chính trong chuẩn hóa dữ liệu:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="phan-ii-x-ly-du-lieu-co-ban/projects.md" %}
-[projects.md](phan-ii-x-ly-du-lieu-co-ban/projects.md)
+{% content-ref url="x-ly-du-lieu-co-ban/projects.md" %}
+[projects.md](x-ly-du-lieu-co-ban/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-ii-x-ly-du-lieu-co-ban/members.md" %}
-[members.md](phan-ii-x-ly-du-lieu-co-ban/members.md)
+{% content-ref url="x-ly-du-lieu-co-ban/members.md" %}
+[members.md](x-ly-du-lieu-co-ban/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-ii-x-ly-du-lieu-co-ban/task-lists.md" %}
-[task-lists.md](phan-ii-x-ly-du-lieu-co-ban/task-lists.md)
+{% content-ref url="x-ly-du-lieu-co-ban/task-lists.md" %}
+[task-lists.md](x-ly-du-lieu-co-ban/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="phan-ii-x-ly-du-lieu-co-ban/tasks.md" %}
-[tasks.md](phan-ii-x-ly-du-lieu-co-ban/tasks.md)
+{% content-ref url="x-ly-du-lieu-co-ban/tasks.md" %}
+[tasks.md](x-ly-du-lieu-co-ban/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
