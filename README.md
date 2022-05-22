@@ -35,8 +35,8 @@ Các nội dung chính trong chuẩn hóa dữ liệu:
 
 {% tabs %}
 {% tab title="DỮ LIỆU ĐỊA CHÍNH" %}
-{% content-ref url="du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/" %}
-[phan-i-chuan-hoa-du-lieu](du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/)
+{% content-ref url="du-lieu-dia-chinh/phan-ii-chuan-hoa-du-lieu/" %}
+[phan-ii-chuan-hoa-du-lieu](du-lieu-dia-chinh/phan-ii-chuan-hoa-du-lieu/)
 {% endcontent-ref %}
 
 {% content-ref url="du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/" %}
