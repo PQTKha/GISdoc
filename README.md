@@ -3,7 +3,7 @@ cover: .gitbook/assets/About_citics_header_bg.jpg
 coverY: 0
 ---
 
-# ▶ Tài liệu hướng dẫn Xử lý dữ liệu Địa chính & Quy hoạch
+# ▶ Tài liệu xử lý dữ liệu Địa chính & Quy hoạch
 
 Chào mừng bạn đến với GIS team Citics và đây là toàn bộ tài liệu hướng dẫn cho các quy trình xử lý dữ liệu địa chính và quy hoạch tại GIS team.&#x20;
 
@@ -25,52 +25,38 @@ Bộ tài liệu này được biên soạn dựa trên các giai đoạn xử l
 >
 > Ngoài nhiệm vụ phải đảm bảo dữ liệu địa chính tại CITICS phải bao phủ tất cả 63 tỉnh thành Việt Nam thì phải luôn đảm bảo dữ liệu là chính xác, đầy đủ và cập nhật mới nhất. Để đảm bảo cho độ chính xác của dữ liệu ở từng bước phân tích thì tác vụ QA/QC dữ liệu cũng là một nhiệm vụ hết sức quan trọng của GIS team để đảm bảo rằng tốc độ xử lý dữ liệu nhanh nhưng vẫn phải đảm bảo độ chính xác cao nhất. Và đây cũng là nội dung của **"Phần V: QA/QC dữ liệu và những điêu cần lưu ý"**.&#x20;
 
-**Got 2 minutes?** Check out a video overview of our product:
-
 {% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
+**Lưu ý:** Quy trình này được biên soạn dựa vào các tác vụ cụ thể được xây dựng và áp dụng tại GIS team. Đồng thời các công cụ được sử dụng trong toàn bộ quy trình xử lý dữ liệu đều đã được bảo mật nhiều lớp để đảm bảo tôn trọng sở hữu trí tuệ và quyền tác giả.&#x20;
 {% endhint %}
 
-### PHẦN I: CHUẨN HÓA DỮ LIỆU
+### NỘI DUNG CHI TIẾT
 
 Các nội dung chính trong chuẩn hóa dữ liệu:
 
-{% content-ref url="chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md" %}
-[khao-sat-va-danh-gia-du-lieu.md](chuan-hoa-du-lieu/khao-sat-va-danh-gia-du-lieu.md)
+{% tabs %}
+{% tab title="DỮ LIỆU ĐỊA CHÍNH" %}
+{% content-ref url="du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/" %}
+[phan-i-chuan-hoa-du-lieu](du-lieu-dia-chinh/phan-i-chuan-hoa-du-lieu/)
 {% endcontent-ref %}
 
-{% content-ref url="chuan-hoa-du-lieu/creating-your-first-task.md" %}
-[creating-your-first-task.md](chuan-hoa-du-lieu/creating-your-first-task.md)
+{% content-ref url="du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/" %}
+[phan-ii-xu-ly-du-lieu-semi](du-lieu-dia-chinh/phan-ii-xu-ly-du-lieu-semi/)
 {% endcontent-ref %}
 
-{% content-ref url="chuan-hoa-du-lieu/advanced-permissions.md" %}
-[advanced-permissions.md](chuan-hoa-du-lieu/advanced-permissions.md)
+{% content-ref url="du-lieu-dia-chinh/phan-iii-xu-ly-du-lieu-full/" %}
+[phan-iii-xu-ly-du-lieu-full](du-lieu-dia-chinh/phan-iii-xu-ly-du-lieu-full/)
 {% endcontent-ref %}
+{% endtab %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+{% tab title="DỮ LIỆU QUY HOẠCH" %}
 
-### Fundamentals: Dive a little deeper
+{% endtab %}
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+{% tab title="DỰ ÁN BẤT ĐỘNG SẢN" %}
 
-{% content-ref url="x-ly-du-lieu-co-ban/projects.md" %}
-[projects.md](x-ly-du-lieu-co-ban/projects.md)
-{% endcontent-ref %}
+{% endtab %}
+{% endtabs %}
 
-{% content-ref url="x-ly-du-lieu-co-ban/members.md" %}
-[members.md](x-ly-du-lieu-co-ban/members.md)
-{% endcontent-ref %}
-
-{% content-ref url="x-ly-du-lieu-co-ban/task-lists.md" %}
-[task-lists.md](x-ly-du-lieu-co-ban/task-lists.md)
-{% endcontent-ref %}
-
-{% content-ref url="x-ly-du-lieu-co-ban/tasks.md" %}
-[tasks.md](x-ly-du-lieu-co-ban/tasks.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+{% hint style="success" %}
+**Kiến thức:** Tài liệu này sẽ cung cấp các kiến thức từ cơ bản đến nâng cao nhằm giúp các bạn chuyên viên bổ sung và củng cố kiến thức trong suốt quá trình xử lý và phân tích dữ liệu.&#x20;
 {% endhint %}
