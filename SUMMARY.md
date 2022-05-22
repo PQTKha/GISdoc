@@ -1,6 +1,6 @@
 # Table of contents
 
-* [▶ Tài liệu xử lý dữ liệu Địa chính & Quy hoạch](README.md)
+* [🇻🇳 Tài liệu xử lý dữ liệu Địa chính & Quy hoạch Việt Nam](README.md)
 
 ## DỮ LIỆU ĐỊA CHÍNH
 

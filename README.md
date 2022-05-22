@@ -3,9 +3,9 @@ cover: .gitbook/assets/About_citics_header_bg.jpg
 coverY: 0
 ---
 
-# ▶ Tài liệu xử lý dữ liệu Địa chính & Quy hoạch
+# 🇻🇳 Tài liệu xử lý dữ liệu Địa chính & Quy hoạch Việt Nam
 
-Chào mừng bạn đến với GIS team Citics và đây là toàn bộ tài liệu hướng dẫn cho các quy trình xử lý dữ liệu địa chính và quy hoạch tại GIS team.&#x20;
+:tada:Chào mừng bạn đến với GIS team Citics và đây là toàn bộ tài liệu hướng dẫn cho các quy trình xử lý dữ liệu địa chính và quy hoạch tại GIS team.&#x20;
 
 {% hint style="info" %}
 **Lưu ý:** Tài liệu này chỉ được sử dụng lưu hành nội bộ! Không chia sẻ ra bên ngoài dưới mọi hình thức. Các quy trình đang trong quá trình xây dựng và phát triển nên có thể thay đổi dựa vào mức độ phát triển của công cụ cũng như các yêu đầu định hướng phát triển mới. Ngoài ra, các nội dung sẽ được đội ngũ GIS Team cập nhật liên tục trong suốt quá trình làm việc, vì vậy các bạn theo dõi để áp dụng cho xử lý dữ liệu nhằm đảm bảo tính chính xác và đồng bộ!
